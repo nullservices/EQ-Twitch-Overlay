@@ -35,12 +35,6 @@ cd eq-twitch-chat
 You can install the required packages via pip:
 
 ```bash
-pip install -r requirements.txt
-```
-
-If you don’t have a `requirements.txt`, use this:
-
-```bash
 pip install pillow requests irc
 ```
 
@@ -82,19 +76,6 @@ python eq-twitch-chat.py
   → Press `Enter` or `Escape` to lock the new size
 - **Close**: Right-click → **Close**
 - **Chat**: Type in the bottom bar and press `Enter` to send to chat
-
----
-
-## 📦 Packaging (Optional)
-
-To create a double-clickable `.exe` for Windows users:
-
-```bash
-pip install pyinstaller
-pyinstaller eq-twitch-chat.py --onefile --noconsole --add-data "assets;assets"
-```
-
-Then share the `.exe` in the `/dist` folder.
 
 ---
 
