@@ -96,4 +96,4 @@ python eq-twitch-chat.py
 
 Built with Python, nostalgia, and caffeine.
 
-Created by [Your Name] • Inspired by the EQ UI and modern Twitch.
+Inspired by the EQ UI and modern Twitch.
