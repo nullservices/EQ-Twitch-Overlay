@@ -27,7 +27,7 @@ This standalone Python app creates a draggable, resizable Twitch chat window tha
 
 ```bash
 git clone https://github.com/nullservices/EQ-Twitch-Overlay.git
-cd eq-twitch-chat
+cd EQ-Twitch-Overlay
 ```
 
 ### 2. Install Requirements
